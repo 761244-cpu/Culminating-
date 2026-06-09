@@ -7,7 +7,7 @@ The project includes a tower defense game set in medieval times. The player will
 ## Goals
 
 - Fun Backstory
-- Engaging Gameplayer
+- Engaging Gameplay
 - Different Levels of challenge
 
 ## Team Members
